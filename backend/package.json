@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "sudo nodemon app.js"
+    "start": "chmod +x app.js"
   },
   "author": "",
   "license": "ISC",
